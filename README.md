@@ -1,6 +1,6 @@
 ![logo](https://github.com/yuvarajhs/yuvarajhs/blob/main/Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Yuvaraj H S</h1>
+<h1 align="center">Hi, I'm Yuvaraj H S</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 
